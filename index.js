@@ -19,7 +19,6 @@ const bot = mineflayer.createBot({
 
 bot.on('spawn', () => {
     console.log("[SPAWN]");
-
   });
 
 function actualTrial(goTest) {
